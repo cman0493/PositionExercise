@@ -79,13 +79,13 @@ body {
 
 #power {
     position: relative;
-    left: 225px;
+    right: 225px;
     z-index: 1;
 }  
 #space {
     position: relative;
-    bottom: 115px;l
-    left: 115px;
+    right: 115px;
+    top: 115px;
     z-index: 1;
 }
 #soul {
@@ -96,8 +96,8 @@ body {
 }
 #reality {
     position: absolute;
-    bottom: 150;
-    right: 150;
+    bottom: 150px;
+    right: 0px;
     z-index: 5;
 }
 #mind {
